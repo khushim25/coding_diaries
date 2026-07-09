@@ -1,4 +1,4 @@
-## This is my coding series where I am practice various coding questions to hone my coding and problem solving skills
+## This is my coding series where I practice various coding questions to hone my coding and problem solving skills
 
 This repository contains Unstop's 100 days of coding question" solutions.
 
